@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Android Developement & Spring Boot 
+- 🔭 I have good knowldge in android dev using kotlin & java 
 
-- 🌱 I’m currently learning **Transflow-ML,Spring-Boot,PHP**
+- 🌱 I’m currently learning **full stack development**
 
-- 🤝 I’m looking for help with **Microsoft**
-
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=6469158871813967608](https://play.google.com/store/apps/dev?id=6469158871813967608)
+- 👨‍💻 All portfolio website : https://sanjitkumarportfolio.web.app/
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sanjit-kumar-08082b224/](https://www.linkedin.com/in/sanjit-kumar-08082b224/)
 
-- 💬 Ask me about **Android,Web-Dev,Firebase,Java...**
+- 💬 Ask me about **java full stack, android dev**
 
 - 📫 How to reach me **kumarsanjit18779@gmail.com**
 
