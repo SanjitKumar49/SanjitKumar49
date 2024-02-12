@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I have good knowldge in android dev using kotlin & java 
+- 🔭 I have good knowldge in android and Java Backend Development 
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **java full stack**
 
 - 👨‍💻 All portfolio website : https://sanjitkumarportfolio.web.app/
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sanjit-kumar-08082b224/](https://www.linkedin.com/in/sanjit-kumar-08082b224/)
 
-- 💬 Ask me about **java full stack, android dev**
+- 💬 Ask me about **java full stack, android developer**
 
 - 📫 How to reach me **kumarsanjit18779@gmail.com**
 
